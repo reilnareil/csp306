@@ -5,6 +5,12 @@
       <title>Writing PHP Function with Parameters</title>
    </head>
    <body>
+      <table>
+         <tr>
+            <td>
+</td>
+</tr>
+</table>
    
       <?php
          function addFunction($num1, $num2) {
